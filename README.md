@@ -1,4 +1,10 @@
-# Faceitize
+<h1 align="center">Faceitize</h1>
+
+<div align="center">
+    <img src="static/debug.jpg" />
+    <img src="static/example.jpg" />
+</div>
+<p align="center"><i>Map faces to other faces</i></p>
 
 The magical face to face replacer.
 
