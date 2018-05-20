@@ -1,8 +1,10 @@
 <h1 align="center">Faceitize</h1>
-
 <div align="center">
-    <img width="300px" src="static/debug.jpg" />
-    <img width="300px" src="static/example.jpg" />
+    <a href="https://badge.fury.io/py/faceitize"><img src="https://badge.fury.io/py/faceitize.svg" alt="PyPI version" height="18"></a>
+</div>
+<div align="center">
+    <img height="300px" src="static/debug.jpg" />
+    <img height="300px" src="static/example.jpg" />
 </div>
 <p align="center"><i>Map faces to other faces</i></p>
 
